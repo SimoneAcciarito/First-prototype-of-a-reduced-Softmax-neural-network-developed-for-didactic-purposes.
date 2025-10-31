@@ -36,14 +36,14 @@ pinout:
   uo[7]: "Data_out(7)"
 
   # Bidirectional pins
-  uio[0]: "clk"
-  uio[1]: "reset"
-  uio[2]: ""
-  uio[3]: ""
-  uio[4]: ""
-  uio[5]: ""
-  uio[6]: ""
-  uio[7]: ""
+  uio[0]: "Sel_in(0)"
+  uio[1]: "Sel_in(1)"
+  uio[2]: "Sel_in(2)"
+  uio[3]: "Sel_in(3)"
+  uio[4]: "Sel_out(0)"
+  uio[5]: "Sel_out(1)"
+  uio[6]: "Sel_out(2)"
+  uio[7]: "Sel_out(3)"
 
 # Do not change!
 yaml_version: 6
